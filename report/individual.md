@@ -1,22 +1,22 @@
 // top contributors on famous projects
 
-**1.Github上影响力比较大的个人**
+### Github上影响力比较大的个人
 
 TODO
 
-**2.OpenStack 国人贡献排行榜**
+### OpenStack
 
 TODO
 
-**3.Linux Kernel 国人贡献排行榜**
+### Linux Kernel
 
 TODO
 
-**4.Docker 国人贡献排行榜**
+### Docker
 
 统计截止时间：2016年7月2日
 
-https://github.com/docker/docker
+https://github.com/docker/docker (2,751 watches, 32,670 stars, 9,437 forks)
 
 | 贡献者 	| commit数量             	| 个人git页面                       	|
 |-----------	|------------------	|----------------------------	|--------------	|-----------------------------------------------------------------------------------------------------------	|
