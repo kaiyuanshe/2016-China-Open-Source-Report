@@ -9,26 +9,32 @@
   - 年度报告工作组
     - [工作组成员](workgroup.md)
     - [工作组指南](workgroup_guideline.md)
-- 报告项目
-  - [由国人发起的著名项目](report/project.md)
-  - [有影响力的开源专家](report/famous.md)
-    - [国内专家](report/famous.md#国内)
-  - [活跃社区的个人](report/individual.md)
-  - 基金会
-  - [国内开源社区](report/community.md)
-    - [Linux兴趣小组](report/community.md#Linux兴趣小组)
-    - [高校](report/community.md#高校)
-    - [公共在线社区](report/community.md#公共在线社区)
-    - [特定项目/技术社区](report/community.md#特定项目-技术社区)
-    - [国内开源项目托管平台](report/community.md#国内开源项目托管平台)
-    - [下载站点](report/community.md#下载站点)
-  - [国内开源协会联盟](report/orgnization.md)
-    - [产业协会](report/orgnization.md#产业协会)
-    - [重要政策事件](report/orgnization.md#重要政策事件)
-  - [开源领域大会](report/conference.md) 
-    - [国内大会](report/conference.md#开源领域国内大会)
-    - [国际会议](report/conference.md#开源领域国际会议)
+- 社区、会议
+  - [基金会](community/fundation.md)
+  - [国内开源社区](community/community.md)
+    - [Linux兴趣小组](community/community.md#Linux兴趣小组)
+    - [高校](community/community.md#高校)
+    - [公共在线社区](community/community.md#公共在线社区)
+    - [特定项目/技术社区](community/community.md#特定项目-技术社区)
+    - [国内开源项目托管平台](community/community.md#国内开源项目托管平台)
+    - [下载站点](community/community.md#下载站点)
+  - [国内开源协会联盟](community/orgnization.md)
+    - [产业协会](community/orgnization.md#产业协会)
+    - [重要政策事件](community/orgnization.md#重要政策事件)
+  - [开源领域大会](community/conference.md) 
+    - [国内大会](community/conference.md#开源领域国内大会)
+    - [国际会议](community/conference.md#开源领域国际会议)
+- 项目、个人
+  - [活跃社区的个人](project/individual.md)
+  - [由国人发起的著名项目](project/project.md)
+  - [有影响力的开源专家](project/famous.md)
+    - [国内专家](project/famous.md#国内)
+- 公司
+  - [公司开源情况](company/READEME.md)
+- 调查
+  - [问卷](survey/README.md)
 - [进度计划](#计划)
+- [负责人](#负责人)
 - [历史报告](#历史报告)
 
 ##如何参与贡献
@@ -58,6 +64,46 @@ incorporating a new feature.
 
 
 ##计划
+- v0.1 2016.6.30
+  完成项目结构设计、管理方式、人员管理
+- v0.2 2016.7.31
+  完成各项目的需求文档
+- v0.4 2016.8.31
+  丰富各项目数据，完成suvey问卷设计
+- v0.6 2015.9.30
+  完成 "项目/个人/公司" 的统计代码
+- v0.7 2015.10.15
+  整理所有数据，制定年度汇报整体结构
+- v0.8 2015.10.31
+  补充缺失数据，完善年度报告
+- v0.9 2015.11.15
+  发布新闻稿
+- v1.0 2015.11.30
+  发布整体报告
+
+##负责人
+(Draft)
+- [基金会](community/fundation.md)
+  sun yuan
+- [国内开源社区](community/community.md)
+  Bruce Xiong
+- [国内开源协会联盟](community/orgnization.md)
+  Bruce Xiong
+- [开源领域大会](community/conference.md) 
+  sunyuan
+- 项目、个人
+  - [活跃社区的个人](project/individual.md)
+   David Liang / Compass
+  - [由国人发起的著名项目](project/project.md)  
+   David Liang  / Compass
+  - [有影响力的开源专家](project/famous.md)
+    - [国内专家](project/famous.md#国内)
+- 公司
+  - [公司开源情况](company/READEME.md)
+    Jack / compass
+- 调查
+  - [问卷](survey/README.md)
+    Jack
 
 ###历史报告
 [2015年开源年度报告](https://github.com/kaiyuanshe/2015-China-Open-Source-Report)
