@@ -53,9 +53,9 @@
 
 
 ##计划
-- v0.1 2016.6.30
+- [v0.1 2016.6.30](https://github.com/kaiyuanshe/2016-China-Open-Source-Report/issues/2)
   完成项目结构设计、管理方式、人员管理
-- v0.2 2016.7.31
+- [v0.2 2016.7.31](https://github.com/kaiyuanshe/2016-China-Open-Source-Report/issues/12)
   完成各项目的需求文档
 - v0.4 2016.8.31
   丰富各项目数据，完成survey问卷设计
@@ -73,13 +73,13 @@
 ##负责人
 (Draft)
 - [基金会](community/fundation.md)
-  sun yuan
+  Sun Yuan
 - [国内开源社区](community/community.md)
   Bruce Xiong
 - [国内开源协会联盟](community/orgnization.md)
   Bruce Xiong
 - [开源领域大会](community/conference.md) 
-  sunyuan
+  Sun Yuan
 - 项目、个人
   - [活跃社区的个人](project/individual.md)
    David Liang / Ted Wang
