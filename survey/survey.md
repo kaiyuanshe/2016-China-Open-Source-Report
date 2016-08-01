@@ -382,3 +382,16 @@
   + RedHat
   + Fedora
   + Other
+* 4.16 您了解的开源license都有哪些？（请最多选择三个）
+  + GPLv3
+  + GPLv2
+  + BSD 2-clause
+  + BSD 3-clause
+  + LGPLv3
+  + AGPLv3
+  + Apache 2.0
+  + MPL 2.0
+  + MIT
+  + EPL
+  + 其他，请补充
+  + 以上都不了解
