@@ -237,7 +237,7 @@
   + 媒体
   + 其他
 
-## 第四部分 开源社区开发者技术调查（共15题）
+## 第四部分 开源社区开发者技术调查（共16题）
 * 4.1 您在开源过程中经常使用到的开发语言是？（可多选）
   + Objective-C
   + Node.js
@@ -382,3 +382,16 @@
   + RedHat
   + Fedora
   + Other
+* 4.16 您了解的开源license都有哪些？（可多选）
+  + GPLv3
+  + GPLv2
+  + BSD 2-clause
+  + BSD 3-clause
+  + LGPLv3
+  + AGPLv3
+  + Apache 2.0
+  + MPL 2.0
+  + MIT
+  + EPL
+  + 其他，请补充
+  + 以上都不了解
