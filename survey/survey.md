@@ -373,16 +373,30 @@
   + Windows
   + Mac OS X
   + Linux
+  + FreeBSD
   + Other
 * 4.15 您经常使用的Linux发行版本
+  + CentOS
   + Ubuntu
   + Debian
   + OpenSUSE
   + Mint
   + RedHat
   + Fedora
+  + CoreOS
   + Other
-* 4.16 您了解的开源license都有哪些？（可多选）
+* 4.16 您是否使用云计算平台进行开发、测试或者部署
+  + 阿里云
+  + AWS
+  + Azure
+  + 青云
+  + 其他，请在后面补充
+* 4.17 您是否已经开始使用Docker容器技术和相关的开源框架
+  + Mesos + Marathon + Docker
+  + Kubernets + Docker
+  + Docker + Docker Swam
+  + Other
+* 4.18 您了解的开源license都有哪些？（可多选）
   + GPLv3
   + GPLv2
   + BSD 2-clause
@@ -395,12 +409,12 @@
   + EPL
   + 其他，请补充
   + 以上都不了解
-* 4.17 您是否了解您发布的项目中都使用哪些license？
+* 4.19 您是否了解您发布的项目中都使用哪些license？
   + 完全了解
   + 基本了解
   + 了解一点
   + 完全不了解
-* 4.18 您发布项目通常使用哪种license？（可不作答）
+* 4.20 您发布项目通常使用哪种license？（可不作答）
   + GPLv3
   + GPLv2
   + BSD 2-clause
