@@ -47,9 +47,9 @@
 * 1.8 您的职位
   + 学生
   + 开发者
+  + 项目经理
   + 主管/经理
   + CTO/CEO/公司负责人
-  + 项目经理
   + 其他
 * 1.9 您所从事的领域
   + 互联网开发/软件开发
@@ -141,7 +141,9 @@
   + 中间件产品（如Websphere、Weblogic）
   + 数据库产品
   + 浏览器产品
-  + 开发工具
+  + IDE
+  + SDK
+  + 应用（如Slack）
   + 其他
 * 3.4 您觉得开源产品在以下哪个方向发展前景最好
   + 桌面操作系统
@@ -181,6 +183,7 @@
   + Google Doc
   + OneDrive
   + etherpad
+  + Github
   + 其他，请在后面补充
 * 3.9 在您的眼里以下哪个公司对于开源软件的贡献最大？
   + IBM
@@ -197,13 +200,15 @@
   + HP
   + Sina
   + Mozilla
+  + Facebook
+  + Twitter
   + 其他，请补充
 * 3.10 你觉得在中国成立开源基金会可以做什么？（多选）
-  + 国外已经有很多成熟基金会，完全没有必要成立中国的开源基金会
   + 推广开源的理念，开源文化教育，社区建设，建立开源生态体系
   + 开源项目早期的孵化和扶持
   + 中国开源社区资源的整合和优化
   + 接轨国际开源社区，成为中国和国际开源社区的沟通桥梁
+  + 国外已经有很多成熟基金会，完全没有必要成立中国的开源基金会
 * 3.11 您认为一个开源社区应该肩负怎样的使命？（可多选）
   + 促进成员技术交流
   + 发展社区核心项目
@@ -239,7 +244,7 @@
 
 ## 第四部分 开源社区开发者技术调查（共18题）
 * 4.1 您在开源过程中经常使用到的开发语言是？（可多选）
-  + Objective-C
+  + Objective-C/Swift
   + Node.js
   + C#
   + C++
@@ -292,8 +297,11 @@
   + KiteQ
   + Web.Go
   + Golanger
+  + Goji
+  + Gin
   + 其他
 * 4.6 您经常使用的Node.js开发框架（请最多选择三个，可不作答）
+  + Express
   + Koa
   + Sails.js
   + Kraken
@@ -310,10 +318,12 @@
   + Web2py
   + 其他
 * 4.8 您经常使用的前端开发框架（请最多选择三个，可不作答）
+  + React
+  + Vue
+  + AngularJS
   + Amaze UI
   + Bootstrap
   + JQuery
-  + AngularJS
   + Semantic UI
   + 网易前端JS框架 NEJ
   + 腾讯Web前端框架库 JX
@@ -326,14 +336,17 @@
   + Drupal
   + WordPress
   + Joomla
-  + mangental
   + Cody
+  + Plone
+  + TYPO3
+  + OpenCms
   + Apostrophe
   + 其他
 * 4.10 您经常使用的开源电子商务建站系统（可多选，可不作答）
   + Magento
   + OFBiz
   + Makingware
+  + ECShop
   + 其他
 * 4.11 您经常使用的编辑器是？
   + notepad++
@@ -343,6 +356,7 @@
   + atom.io
   + textmate
   + xemacs
+  + VS Code
   + others
   + 其他，请补充
 * 4.12 您经常使用的版本控制工具
@@ -373,7 +387,11 @@
   + Windows
   + Mac OS X
   + Linux
+<<<<<<< HEAD
+  + Android
+=======
   + FreeBSD
+>>>>>>> 4d5ef260cec77ff70ce735d84ae0fcfea55cee14
   + Other
 * 4.15 您经常使用的Linux发行版本
   + CentOS
@@ -383,7 +401,11 @@
   + Mint
   + RedHat
   + Fedora
+<<<<<<< HEAD
+  + Arch
+=======
   + CoreOS
+>>>>>>> 4d5ef260cec77ff70ce735d84ae0fcfea55cee14
   + Other
 * 4.16 您是否使用云计算平台进行开发、测试或者部署
   + 阿里云

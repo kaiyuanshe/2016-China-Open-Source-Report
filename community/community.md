@@ -1,3 +1,41 @@
+
+##高校
+
+| 城市/省份 	| 学校 	| 社区	| 站点 	| 简介                                                                                                      	|
+|----------    |-------------	|-------------------	|--------------|-----------------------------------------------------------------------------------------------------------	|
+| 北京      	| 中国科学院大学   	| 中科院开源软件协会         	| http://www.opencas.cn/ https://github.com/opencas          	| 中国科学院开源软件协会(Open CAS)是由中国科学院大学(UCAS)研究生组成的开源技术社区。协会秉承开放·自由·分享的理念，聚集开源爱好者，分享开源技术，传递开源理念，为科学院的同学创建平台参与开源项目，与其他开源社区、企业合作交流。                     	|
+|           	| 清华大学         	| 清华大学 TUNA 协会      	| https://tuna.moe/ https://github.com/tuna/ http://weibo.com/u/5402274706          	| 清华大学 TUNA 协会原名清华大学学生网管会，注册名清华大学学生网络与开源软件协会，是由清华大学网络技术和开源软件爱好者、技术宅组成的团体。                              	|
+|           	| 北京大学         	| 开源软件协会               	| https://www.pkuosa.org https://github.com/pku-osa          	| 未名湖畔好开源                   	|
+|           	| 北京大学         	| 北京大学Linux俱乐部       	| https://lcpu.club       	| 北京大学 Linux 俱乐部是由学生自发成立的民间组织，以学习研究 Linux 操作系统及其它与开源相关的各种软硬件技术为目的。           	|
+| 上海      	| 上海科技大学     	| Geek Pie       	| https://geekpie.org          	| Geek Pie 创立于 2014 年，伴随这个年轻的大学成长。我们是 Geek Pie ，一个非典高校的非典型人类聚集群。我们爱 Coding 也爱 Hacking ，爱 Creating 也爱 Sleeping 。我们致力于开源共享与开发，创意创造与极客风尚。我们不是纯粹的学生组织，我们只是纯粹的 hacker ，我们以常规活动为载体，却也致力于建立以项目小组为核心，这里是大家的自留地，也是创意的迸发点。              	|
+|           	| 上海大学         	| 开源软件社区               	| http://weibo.com/shuopensource   	|   交流开源技术，发扬开源精神                                                             	|
+| 天津      	| 天津大学         	| 北洋Linux协会              	| Yes          	| SFD, The RedFlag CUP, ad-hoc speeches                                                                     	|
+| 安徽      	| 中国科技技术大学 	| 中国科学技术大学 Linux 用户协会          	| https://lug.ustc.edu.cn https://github.com/ustclug           	| 中国科学技术大学 Linux 用户协会是由中国科学技术大学在校的 GNU/Linux 爱好者发起并组成的一个全校性群众团体。成立协会的目的在于联合科大的 GNU/Linux 使用者，搭建信息交流共享的平台，宣传自由软件的价值，提高自由软件社区文化氛围，推广自由软件在科大校园乃至合肥地区的应用。          	|
+| 江苏    	| 南京邮电大学     	| 开源软件社区               	| No           	| Open Source in Universities, SFD, The RedFlag CUP, ad-hoc speeches                                        	|
+| 甘肃      	| 兰州大学         	| 兰州大学开源社区    	| https://oss.lzu.edu.cn https://github.com/lzuoss          	| 兰州大学开源社区 （Open Source Society of Lanzhou University，简称LZUOSS） 成立于2006年5月10日，是在兰州大学分布式与嵌入式实验室（DSLab）和通信网络中心的支持下，以众多兰州大学Linux爱好者和用户为主体，开展自由软件知识的学习、研究和宣传的学生团队。社区旨在提供学习和研究自由软件技术的平台，宣传和推广自由软件在兰州以及西北地区的应用，促进自由软件的开发，营造良好的计算机技术学习氛围。                  	|
+| 四川      	| 电子科技大学     	| 电子科技大学开源社区     	| http://uestc.xyz/ https://github.com/uestcer          	|                                                                                      	|
+|           	| 四川大学         	| 科学与技术协会             	| No           	| SFD, The RedFlag CUP, Firefox                                                                             	|                                                                    
+| 重庆      	| 重庆大学         	| 开源软件协会               	| No           	| SFD, The Loongson CUP                                                                                     	|
+|           	| 西南大学         	| 开源软件协会               	| Yes          	| Nice Traveling on Linux, SFD, ad-hoc speeches                                                             	|
+|           	| 重庆邮电大学     	| Linux协会                  	| No           	| SFD                                                                                                       	|
+| 广东      	| 汕头大学         	| Linux协会                  	| No           	| Night of Linux, SFD                                                                                       	|
+|           	| 广州大学         	| 开源软件协会               	| No           	| SFD, The RedFlag CUP                                                                                      	|
+| 湖北      	| 武汉科技大学     	| 开源软件协会               	| No           	| SFD, The RedFlag CUP, The Loongson CUP, open source competition among 3 universities in Wuhan             	|
+|           	| 武汉大学         	| 计算机协会, 程序员协会     	| No           	| SFD, The RedFlag CUP, Firefox Open Source in Universities                                                 	|
+| 陕西      	| 西安邮电大学     	| Linux兴趣小组              	| Yes          	| SFD, The RedFlag CUP, Firefox Open Source in Universities, The Loongson CUP, scheduled technical speeches 	|
+|           	| 西安大学         	| 西电开源软件协会           	| No           	| SFD, The RedFlag CUP, Firefox Open Source in Universities, ad-hoc speeches                                	|
+|           	| 西安财经学校     	| Linux兴趣小组              	| No           	| SFD, The RedFlag CUP, Firefox Open Source in Universities                                                 	|
+|           	| 西安理工大学     	| Linux小组                  	| No           	| SFD, The RedFlag CUP                                                                                      	|
+|           	| 陕西科技大学     	| Linux兴趣小组              	| No           	| SFD, The RedFlag CUP                                                                                      	|
+|           	| 西北农林科技大学 	| 西农开源软件协会           	| No           	| SFD, The RedFlag CUP                                                                                      	|
+|           	| 西安科技大学     	| 开源软件协会               	| No           	| SFD, ad-hoc speeches
+| 山东      	| 山东大学         	| 开源软件俱乐部             	| No           	| SFD                                                                                                       	|
+|           	| 青岛大学         	| OSQDU OSS Organization     	| Yes          	| SFD, ad-hoc speeches                                                                                      	|
+| 黑龙江    	| 哈尔滨工业大学   	| IBM俱乐部, 计算机协会      	| No           	| SFD, debugging competitions                                                                               	|
+| 浙江      	| 浙江大学         	| Linux用户组                	| Yes           	| SFD, ad-hoc open source speeches                                                                          	|
+| 辽宁      	| 东北大学         	| 开源软件协会               	| Yes          	| SFD                                                                                                       	|
+| 福建      	| 厦门大学         	| Linux用户组                	| Yes          	| ad-hoc speeches                                                                                           	|
+
 ##Linux兴趣小组
 
 | 名称               	| 简介                                                                                                                                                                                           	| 网址                                                          	|
@@ -20,47 +58,6 @@
 | 哈尔滨Linux用户组  	| 月度聚会                                                                                                                                                                                       	| http://gitcafe.com/HrBLUG                                     	|
 
 *只有很少的 Linux 兴趣小组存在，组织一直在变。总体上不会跨越地理位置，并且都是一些小的组织，做一些技术分享、聚会等等的活动。*
-
-##高校
-
-| 城市/省份 	| 学校             	| 社区                       	| 开源软件镜像 	| 活动                                                                                                      	|
-|-----------	|------------------	|----------------------------	|--------------	|-----------------------------------------------------------------------------------------------------------	|
-| 北京      	| 中国科学院大学   	| 中科院开源软件协会         	| Yes          	| SFD, EFD，HFD，PyCon                                                                                      	|
-|           	| 北京交通大学     	| Java协会, Firfox组         	| Yes          	| SFD, Firefox in Universities, The RedFlag CUP, ad-hoc speeches                                            	|
-|           	| 清华大学         	| 网络管理组, 计算机俱乐部   	| Yes          	| SFD, ad-hoc speeches                                                                                      	|
-|           	| 北京航空航天大学 	| 计算机协会, 软件工程俱乐部 	| Yes          	| SFD, Firefox in Universities, 360 campus                                                                  	|
-|           	| 北京邮电大学     	| 开源软件协会               	| No           	| SFD, Firefox in Universities, ad-hoc speeches                                                             	|
-|           	| 北京理工大学     	| 科学与技术协会             	| Yes          	| SFD                                                                                                       	|
-|           	| 北京大学         	| 开源软件协会               	| Yes          	| Google Android competitions, SFD, open source time at the WeiMing lake, ad-hoc speeches                   	|
-| 上海      	| 上海交通大学     	| IBM俱乐部、Linux协会       	| Yes          	| IBM annual meetings, SFD                                                                                  	|
-|           	| 同济大学         	| 开源软件协会               	| No           	| SFD, ad-hoc speeches                                                                                      	|
-|           	| 上海大学         	| 开源软件社区               	|              	|                                                                                                           	|
-| 天津      	| 天津大学         	| 北洋Linux协会              	| Yes          	| SFD, The RedFlag CUP, ad-hoc speeches                                                                     	|
-| 安徽      	| 中国科技技术大学 	| Linux学生用户协会          	| No           	| Linux Install Party, SFD, Firefox in Universities, ad-hoc speeches                                        	|
-|   江苏    	| 南京邮电大学     	| 开源软件社区               	| No           	| Open Source in Universities, SFD, The RedFlag CUP, ad-hoc speeches                                        	|
-| 甘肃      	| 兰州大学         	| 开源软件组织、IBM俱乐部    	| Yes          	| The Linux Open Day, SFD, The RedFlag CUP, ad-hoc speeches                                                 	|
-| 四川      	| 电子科技大学     	| Linux协会                  	| Yes          	| SFD, The RedFlag CUP                                                                                      	|
-|           	| 四川大学         	| 科学与技术协会             	| No           	| SFD, The RedFlag CUP, Firefox                                                                             	|                                                                    
-| 重庆      	| 重庆大学         	| 开源软件协会               	| No           	| SFD, The Loongson CUP                                                                                     	|
-|           	| 西南大学         	| 开源软件协会               	| Yes          	| Nice Traveling on Linux, SFD, ad-hoc speeches                                                             	|
-|           	| 重庆邮电大学     	| Linux协会                  	| No           	| SFD                                                                                                       	|
-| 广东      	| 汕头大学         	| Linux协会                  	| No           	| Night of Linux, SFD                                                                                       	|
-|           	| 广州大学         	| 开源软件协会               	| No           	| SFD, The RedFlag CUP                                                                                      	|
-| 湖北      	| 武汉科技大学     	| 开源软件协会               	| No           	| SFD, The RedFlag CUP, The Loongson CUP, open source competition among 3 universities in Wuhan             	|
-|           	| 武汉大学         	| 计算机协会, 程序员协会     	| No           	| SFD, The RedFlag CUP, Firefox Open Source in Universities                                                 	|
-| 陕西      	| 西安邮电大学     	| Linux兴趣小组              	| Yes          	| SFD, The RedFlag CUP, Firefox Open Source in Universities, The Loongson CUP, scheduled technical speeches 	|
-|           	| 西安大学         	| 西电开源软件协会           	| No           	| SFD, The RedFlag CUP, Firefox Open Source in Universities, ad-hoc speeches                                	|
-|           	| 西安财经学校     	| Linux兴趣小组              	| No           	| SFD, The RedFlag CUP, Firefox Open Source in Universities                                                 	|
-|           	| 西安理工大学     	| Linux小组                  	| No           	| SFD, The RedFlag CUP                                                                                      	|
-|           	| 陕西科技大学     	| Linux兴趣小组              	| No           	| SFD, The RedFlag CUP                                                                                      	|
-|           	| 西北农林科技大学 	| 西农开源软件协会           	| No           	| SFD, The RedFlag CUP                                                                                      	|
-|           	| 西安科技大学     	| 开源软件协会               	| No           	| SFD, ad-hoc speeches
-| 山东      	| 山东大学         	| 开源软件俱乐部             	| No           	| SFD                                                                                                       	|
-|           	| 青岛大学         	| OSQDU OSS Organization     	| Yes          	| SFD, ad-hoc speeches                                                                                      	|
-| 黑龙江    	| 哈尔滨工业大学   	| IBM俱乐部, 计算机协会      	| No           	| SFD, debugging competitions                                                                               	|
-| 浙江      	| 浙江大学         	| Linux用户组                	| Yes           	| SFD, ad-hoc open source speeches                                                                          	|
-| 辽宁      	| 东北大学         	| 开源软件协会               	| Yes          	| SFD                                                                                                       	|
-| 福建      	| 厦门大学         	| Linux用户组                	| Yes          	| ad-hoc speeches                                                                                           	|
 
 ##公共在线社区
 
@@ -99,13 +96,10 @@
 
 大多数开源软件都依赖于互联网而生。一个好的项目管理平台将能够帮助开源项目更高效和规范的管理与发展。而项目的发展中代码托管平台应该是开源项目发展中的刚性需求了，国内近几年出现了一批基于SVN和GIT版本控制系统的代码托管平台，除了代码托管他们也还提供各自不同的特色功能。下面列出几个主要平台：
 
-- GitCafe（gitcafe.com）
-- SVN China 中国源代码托管中心（www.svnchina.com）
-- GitCD（gitcd.com）
-- CSDN CODE（code.csdn.net）
-- Git@OSC（git.oschina.net）
-- TaoCode（code.taobao.org/fastregister/）
 - Coding (coding.net)
+- CSDN CODE（code.csdn.net）
+- 码云（git.oschina.net）
+- SVN China 中国源代码托管中心（www.svnchina.com）
 
 ##下载站点
 
