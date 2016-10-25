@@ -1,0 +1,1 @@
+Linux Professional Institute是一个非盈利性组织，它提供linux系统管理员和程序员的专业认证。获取该认证的人可以被看做是具备了一定的linux专业技能的从业人员。
